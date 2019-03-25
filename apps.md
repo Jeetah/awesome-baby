@@ -15,7 +15,8 @@ __Criteria__
 \+ activity protocol  
 +++ super easy  
 ++ test version (30min)  
-++ Video
+++ Video  
+__My overall recommendation!__
 
 * [Mary Baby Monitor](https://play.google.com/store/apps/details?id=ua.com.footplay.meriradionanny.free)  
 \- UI a little outdated  
