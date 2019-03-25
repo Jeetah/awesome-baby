@@ -3,6 +3,7 @@
 __Criteria__
 - trustworthy amount of downloads
 - rating in area of 4*s
+- app is still maintained & further developed
 
 ## Android
 
@@ -55,4 +56,9 @@ __Criteria__
 \+ activity protocol  
 ++ test version  
 \- no Video 
+
+* [Bay Monitor and alarm](https://play.google.com/store/apps/details?id=com.tappytaps.android.babymonitoralarm.full)  
+-- overloaded outdated UI  
+-- paid version only -> not tested further  
+++ a lot of good ratings  
 
